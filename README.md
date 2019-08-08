@@ -1,6 +1,6 @@
 # 🔗 Kirby relative
 
-Small [Kirby](https://getkirby.com) plugin to allow using relative page urls in kirbytext links.
+Small [Kirby](https://getkirby.com) plugin to allow using relative page urls in kirbytext links. Handy for standalone frontends built with [Vue](https://vuejs.org/) or [Svelte](https://svelte.dev/).
 
 ## Installation
 
