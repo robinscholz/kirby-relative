@@ -1,4 +1,4 @@
-# 🔄 Slug to ID plugin
+# 🔗 Kirby relative
 
 Small [Kirby](https://getkirby.com) plugin to allow using relative page urls in kirbytext links.
 
